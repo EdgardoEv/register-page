@@ -1,0 +1,42 @@
+.box1{
+    background-color: #fff6f6;
+    border: 2px solid #000000;
+    border-color: var(--black);
+    border-radius: 30px;
+    box-shadow: 0px 0px 4px 3px #00000070;
+    height: 867px;
+    left: 99px;
+    position: absolute;
+    top: 73px;
+    width: 1243px;
+}
+input[type=text]{
+    background: #A79E9E;
+    border-radius: 10px;
+    height: 60px;
+    left: 168px;
+    position: absolute;
+    top: 342px;
+    width: 290px;
+    text-align: center;
+}
+input[type=password]{
+    background: #A79E9E;
+    border-radius: 10px;
+    height: 60px;
+    left: 574px;
+    position: absolute;
+    top: 342px;
+    width: 290px;
+    text-align: center;
+}
+input[type=password]{
+    background-color: #A79E9E;
+    border-radius: 10px;
+    height: 60px;
+    left: 980px;
+    position: absolute;
+    top: 342px;
+    width: 290;
+}
+
